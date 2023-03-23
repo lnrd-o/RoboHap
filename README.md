@@ -18,7 +18,7 @@ Para desarrollar este proyecto se utilizaron librerias como:
 ## Relacionado
 
 
-[RoboHap Software]([https://github.com/lnrd-o/RoboHap-Software])
-[RoboHap Firmware]([https://github.com/lnrd-o/RoboHap-Simulacion])
-[RoboHap Hardware]([https://github.com/lnrd-o/RoboHap-Simulacion])
+[RoboHap Software](https://github.com/lnrd-o/RoboHap-Software)
+[RoboHap Firmware](https://github.com/lnrd-o/RoboHap-Firmware)
+[RoboHap Hardware](https://github.com/lnrd-o/RoboHap-Hardware)
 
